@@ -1,0 +1,6 @@
+﻿  Picture.cpp
+C:\Users\Korisnik\source\repos\Picture\Picture\Picture.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Picture.cpp')
+  
+C:\Users\Korisnik\source\repos\Picture\Picture\Picture.cpp(143,2): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Picture.vcxproj -> C:\Users\Korisnik\source\repos\Picture\x64\Debug\Picture.exe
