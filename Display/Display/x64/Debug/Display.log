@@ -1,0 +1,11 @@
+﻿  Display.cpp
+  Main.cpp
+C:\Users\Korisnik\source\repos\Display\Display\dekadniMatDisp.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+  dekadniMarDisp.cpp
+C:\Users\Korisnik\source\repos\Display\Display\dekadniMatDisp.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'dekadniMarDisp.cpp')
+  
+  Generating Code...
+  Display.vcxproj -> C:\Users\Korisnik\source\repos\Display\x64\Debug\Display.exe
